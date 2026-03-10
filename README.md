@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20,29&text=AJ%20Enao&fontSize=42&fontColor=#F5F5DC&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving=50&height=190&color=gradient&customColorList=6,11,20,29&text=AJ%20Enao&fontSize=42&fontColor=#F5F5DC&animation=fadeIn&fontAlignY=45"/>
 
 ## Education
 | Grade Level | Institution | Date |
